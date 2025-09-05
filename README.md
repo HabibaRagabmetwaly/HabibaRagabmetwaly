@@ -8,7 +8,7 @@
 
  👩‍🏫 About Me:
 
-- 👩‍🏫 I'm currently a **Teaching Assistant in Computer Networks**
+- 👩‍🏫 I'm currently a **Teaching Assistant in Communication and Electronics Engineering**
 - 🎓 Graduated from **Digital Egypt Builders Initiative (DEBI)** - "رواد مصر الرقمية"
 - 💡 Passionate about **Software Testing**, **Networking**, and **Automation**
 - 🚀 Currently learning **Java, Selenium, API Testing, Jenkins, JMeter**
